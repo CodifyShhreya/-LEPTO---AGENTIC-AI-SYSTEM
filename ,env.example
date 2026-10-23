@@ -1,0 +1,4 @@
+ # Optional. The demo works without an external model API.
+# Keep secret keys server-side only. Never prefix private keys with NEXT_PUBLIC_.
+# LEPTO_MODEL_API_URL=
+# LEPTO_MODEL_API_KEY=
